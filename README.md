@@ -7,7 +7,6 @@ This is a ruby script that decodes morse code into english words.
 
 - [Ruby](https://ruby.org/)
 
-<<<<<<< Updated upstream
 =======
 ### Setup
 
