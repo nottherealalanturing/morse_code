@@ -19,7 +19,6 @@ git clone < https://github.com/nottherealalanturing/morse_code.git >
 cd <local folder>
 ```
 
-
 ## Author
 
 👤 **Assad Isah**
