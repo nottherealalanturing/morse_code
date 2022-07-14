@@ -7,6 +7,20 @@ This is a ruby script that decodes morse code into english words.
 
 - [Ruby](https://ruby.org/)
 
+<<<<<<< Updated upstream
+=======
+### Setup
+
+- Clone the project
+```terminal
+git clone < https://github.com/nottherealalanturing/morse_code.git >
+```
+
+- cd into the project directory
+```terminal
+cd <local folder>
+```
+>>>>>>> Stashed changes
 
 ## Author
 
